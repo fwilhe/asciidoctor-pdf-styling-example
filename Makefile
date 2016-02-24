@@ -1,6 +1,6 @@
 
 all:
-	asciidoctor-pdf -a pdf-style=style.yml article.adoc
+	asciidoctor-pdf -a pdf-style=fwilhe-theme.yml article.adoc
 
 clean:
 	rm article.pdf
