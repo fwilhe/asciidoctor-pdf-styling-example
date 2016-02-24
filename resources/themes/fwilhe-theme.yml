@@ -1,5 +1,5 @@
 title_page:
-  logo_image: image:logo.png[scaledwidth=25%]
+  logo_image: image:logo.png[]
 page:
   layout: portrait
   margin: [0.75in, 1in, 0.75in, 1in]
