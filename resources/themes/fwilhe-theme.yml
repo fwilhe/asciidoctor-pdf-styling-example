@@ -23,8 +23,8 @@ outline_list:
   indent: $base_font_size * 1.5
 header:
   height: 0.75in
-  image_vertical_align: 2 (1)
+  image_vertical_align: 2
   recto_content:
-    center: image:footer-logo.png[width=80]
+    center: image:footer-logo.png[width=120]
   verso_content:
     center: $header_recto_content_center
