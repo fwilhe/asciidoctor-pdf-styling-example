@@ -1,3 +1,5 @@
+title_page:
+  logo_image: image:logo.png[scaledwidth=25%]
 page:
   layout: portrait
   margin: [0.75in, 1in, 0.75in, 1in]
@@ -19,3 +21,10 @@ link:
   font_color: #002FA7
 outline_list:
   indent: $base_font_size * 1.5
+header:
+  height: 0.75in
+  image_vertical_align: 2 (1)
+  recto_content:
+    center: image:footer-logo.png[width=80]
+  verso_content:
+    center: $header_recto_content_center
