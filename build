@@ -1,0 +1,1 @@
+asciidoctor-pdf -a pdf-style=style.yml article.adoc
