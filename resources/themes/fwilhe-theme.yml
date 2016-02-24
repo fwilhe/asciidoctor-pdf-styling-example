@@ -28,3 +28,12 @@ header:
     center: image:footer-logo.png[width=120]
   verso_content:
     center: $header_recto_content_center
+footer:
+  height: 0.75in
+  line_height: 1.2
+  recto_content:
+    right: |
+      _{section-or-chapter-title}_ - {page-number}
+  verso_content:
+    left: |
+      {page-number} - _{chapter-title}_
