@@ -24,9 +24,9 @@ header:
   height: 0.75in
   image_vertical_align: 2
   recto_content:
-    center: image:footer-logo.png[width=120]
+    right: image:footer-logo.png[width=120]
   verso_content:
-    center: $header_recto_content_center
+    right: image:footer-logo.png[width=120]
 footer:
   height: 0.75in
   line_height: 1.2
