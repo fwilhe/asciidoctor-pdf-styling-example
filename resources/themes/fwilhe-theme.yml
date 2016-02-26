@@ -24,15 +24,21 @@ header:
   height: 0.75in
   image_vertical_align: 2
   recto_content:
+    left: Title of this Document
     right: image:footer-logo.png[width=120]
   verso_content:
+    left: Title of this Document
     right: image:footer-logo.png[width=120]
 footer:
   height: 0.75in
   line_height: 1.2
   recto_content:
+    left: |
+      {section-or-chapter-title}
     center: |
       {page-number}
   verso_content:
+    left: |
+      {section-or-chapter-title}
     center: |
       {page-number}
