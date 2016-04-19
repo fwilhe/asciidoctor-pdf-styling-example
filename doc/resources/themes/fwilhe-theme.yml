@@ -2,7 +2,7 @@ title_page:
   logo_image: image:logo.png[]
 page:
   layout: portrait
-  margin: [0.75in, 1in, 0.75in, 1in]
+  margin: [3.2cm, 2cm, 2.2cm, 2cm]
   size: A4
 base:
   font_color: #333333
@@ -21,7 +21,12 @@ link:
 outline_list:
   indent: $base_font_size * 1.5
 header:
-  height: 0.75in
+  border_style: solid
+  border_color: #B4B4B4
+  border_width: 1
+  height: 2.5cm
+  vertical_align: middle
+  font-color: #7D7D7D
   image_vertical_align: 2
   recto_content:
     left: |
