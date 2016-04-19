@@ -1,15 +1,7 @@
 
-== Setup
-
-You need to install `asciidoctor-pdf`
-
-----
-gem install asciidoctor-pdf --pre
-----
-
 == Build
 
 ----
-make
+./gradlew build
 ----
 
