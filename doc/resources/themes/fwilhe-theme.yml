@@ -30,11 +30,13 @@ header:
   image_vertical_align: 2
   recto_content:
     left: |
-      {document-title}
+      *{document-title}* +
+      {document-subtitle}
     right: image:footer-logo.png[width=120]
   verso_content:
-    left:  |
-      {document-title}
+    left: |
+      *{document-title}* +
+      {document-subtitle}
     right: image:footer-logo.png[width=120]
 footer:
   font-color: #5D5D5D

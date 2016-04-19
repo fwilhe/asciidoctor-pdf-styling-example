@@ -1,5 +1,5 @@
 // View this document online at http://asciidoctor.org/docs/convert-asciidoc-to-pdf/
-= How to Convert AsciiDoc to PDF with Asciidoctor
+= How to Convert AsciiDoc to PDF with Asciidoctor: A Guide to your new Word Processor
 Dan Allen <https://github.com/mojavelinux[@mojavelinux]>; Sarah White <https://github.com/graphitefriction[@graphitefriction]>
 v1.0
 :description: Asciidoctor PDF is a direct AsciiDoc to PDF renderer. The generate-pdf script converts an AsciiDoc document to a PDF.
